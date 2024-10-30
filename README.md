@@ -21,6 +21,28 @@ This repository contains several Python scripts designed for MIND-IoT, extractin
    - Implements a CNN model using pre-trained RoBERTa embeddings for classification tasks.
    - Contains the architecture and forward pass of the CNN.
 
+## Datasets Used in This Study
+
+The following datasets were utilized in this study:
+
+1. **FCSIT**: 
+   - [Link to Dataset](https://doi.org/10.6084/m9.figshare.25143581.v1)
+
+2. **UNSW** (University of New South Wales):
+   - [Link to Dataset](https://iotanalytics.unsw.edu.au/iottraces.html) 
+   - DOI: [10.1109/TMC.2018.2866249](https://doi.org/10.1109/TMC.2018.2866249)
+
+3. **Moniotr** (Northeastern University): 
+   - [Link to Dataset](https://moniotrlab.ccis.neu.edu/imc19/) 
+   - DOI: [10.1145/3355369.3355577](https://doi.org/10.1145/3355369.3355577)
+
+4. **Yourthings** (Georgia Tech): 
+   - [Link to Dataset](https://yourthings.info/data/)
+
+5. **IoT Sentinel** (Aalto University): 
+   - [Link to Dataset](https://research.aalto.fi/en/datasets/iot-devices-captures) 
+   - DOI: [10.24342/285a9b06-de31-4d8b-88e9-5bdba46cc161](https://doi.org/10.24342/285a9b06-de31-4d8b-88e9-5bdba46cc161)
+
 ## Requirements
 - Python 3.9
 - Required libraries:
