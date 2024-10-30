@@ -22,7 +22,7 @@ This repository contains several Python scripts designed for MIND-IoT, extractin
    - Contains the architecture and forward pass of the CNN.
 
 ## Requirements
-- Python 3.x
+- Python 3.9
 - Required libraries:
     - torch
     - transformers
